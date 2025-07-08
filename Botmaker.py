@@ -37,7 +37,7 @@ def send_welcome(message):
     welcome_text = (
         "✨ <b>Welcome to DARKN8 BotMaker</b>\n\n"
         "🚀 Easily create your own Telegram bot in seconds.\n\n"
-        "🔒 To get started, please join our required channels '
+        "🔒 To get started, please join our required channels\n\n "
         "✅ After joining, click <b>I've Joined</b> below to continue."
     )
 
