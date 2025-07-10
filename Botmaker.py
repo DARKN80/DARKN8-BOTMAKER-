@@ -6,7 +6,7 @@ import telebot from telebot import types
 
 Your Bot Token
 
-API_TOKEN = '7679897180:AAEErLJcstZMKUSJ8nwIGU5Kx5ytXgf0rPA'
+API_TOKEN = 'BOTTOKEN HERE'
 
 # Your Telegram ID
 
